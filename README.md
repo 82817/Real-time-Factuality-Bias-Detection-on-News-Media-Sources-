@@ -39,14 +39,8 @@
 
 
 
-```python
-nb_setup.images_hconcat(["Media_Bias_Chart.png"], width = 750)
-```
 
-
-
-
-![png](output_4_0.png)
+![](images/output_11_0.png)
 
 
 

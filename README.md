@@ -88,54 +88,36 @@ Sofia University, Bulgaria
 
 
 
-```python
-nb_setup.images_hconcat(["OwlFactor.png","Centr.png"], width = [100,100])
-```
+
+
+
+![](images/output_11_0.png)
 
 
 
 
-![png](output_11_0.png)
 
 
 
 
-```python
-nb_setup.images_hconcat(["Centr.png"], width = 1000)
-```
-
-
-
-
-![png](output_12_0.png)
+![png](images/output_12_0.png)
 
 
 
 ## Data Overview
 
 
-```python
-nb_setup.images_hconcat(["Data_Overview.png"], width = 2000)
-```
 
-
-
-
-![png](output_14_0.png)
+![](images/output_14_0.png)
 
 
 
 ### Label Counts in Dataset
 
 
-```python
-nb_setup.images_hconcat(["Label_Counts.png"], width = 500)
-```
 
 
-
-
-![png](output_16_0.png)
+![](images/output_16_0.png)
 
 
 
@@ -205,14 +187,10 @@ def Classification(features, task):
 ```
 
 
-```python
-nb_setup.images_hconcat(["logistic_classification.png"], width = 1000)
-```
 
 
 
-
-![png](output_22_0.png)
+![png](images/output_22_0.png)
 
 
 

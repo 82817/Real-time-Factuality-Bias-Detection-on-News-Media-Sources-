@@ -1,17 +1,19 @@
 
 # Real-time Factuality & Bias Detection on News Media Sources
 
-Chia-cheng Lin,  May-chun Jai,  Yiwen Zheng,  Yiting Wang,  Yi Lu
+
+    Chia-cheng Lin,  
+    
+    May-chun Jai,  
+    
+    Yiwen Zheng,  
+    
+    Yiting Wang,  
+    
+    Yi Lu
 
 
-```python
-%pylab inline
-import pandas as pd
-import os
-from ipypublish import nb_setup
-```
 
-    Populating the interactive namespace from numpy and matplotlib
     
 
 ## Agenda

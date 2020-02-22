@@ -40,7 +40,7 @@
 
 
 
-![](images/output_4_0.png =200x750)
+![](images/output_4_0.png)
 
 
 

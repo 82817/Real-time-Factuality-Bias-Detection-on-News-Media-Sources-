@@ -78,6 +78,10 @@ Sofia University, Bulgaria
 
 ## Accuracy Output
 
+![](images/output_10_0.png)
+
+![](images/output_11_0.png)
+
 ## Other Similar Product
 * Chrome Add-on
   * Owl Factor
@@ -87,11 +91,6 @@ Sofia University, Bulgaria
 * FactCheck.org
 
 
-
-
-
-
-![](images/output_11_0.png)
 
 
 

@@ -94,12 +94,7 @@ Sofia University, Bulgaria
 
 
 
-
-
-
-
-
-![png](images/output_12_0.png)
+![png](images/output_13_0.png)
 
 
 
@@ -117,6 +112,29 @@ Sofia University, Bulgaria
 
 
 ![](images/output_16_0.png)
+
+
+## Feature Exploration
+
+### t-SNE Plot
+
+#### Feature: body (Fact vs. Bias)
+![](images/output_21_0.png)
+
+### Feature: title (Fact vs. Bias)
+![](images/output_23_0.png)
+
+### Feature: wikicontent (Fact vs. Bias)
+![](images/output_25_0.png)
+
+### Feature: wikisummary (Fact vs. Bias)
+![](images/output_27_0.png)
+
+### Feature: wikicategories (Fact vs. Bias)
+![](images/output_29_0.png)
+
+### Feature: wikitoc (Fact vs. Bias)
+![](images/output_31_0.png)
 
 
 
